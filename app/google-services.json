@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979635104228",
+    "firebase_url": "https://myrtdbapplication-b4f18.firebaseio.com",
+    "project_id": "myrtdbapplication-b4f18",
+    "storage_bucket": "myrtdbapplication-b4f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979635104228:android:80535cbce7830018",
+        "android_client_info": {
+          "package_name": "com.example.bhurivatmontri.myrtdbapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979635104228-jh8ft267s4fomh8sc85p89cq8uef9itf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhurivatmontri.myrtdbapplication",
+            "certificate_hash": "38cc497b93a7337b098e615fa2fd91bbd609b189"
+          }
+        },
+        {
+          "client_id": "979635104228-2gfci92m5u1bhupog2pdsmt3vlhemjrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJAX3zzUMIubXwGzU-Hj4GpzKYx6pZR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979635104228-2gfci92m5u1bhupog2pdsmt3vlhemjrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
